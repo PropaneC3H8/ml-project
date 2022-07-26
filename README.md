@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/PropaneC3H8/ml-project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/PropaneC3H8/ml-project/tree/main)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
